@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeckroBeckrGame_SAS", "FeckroBeckrGame_SAS.csproj", "{4A7A031B-D1AE-4D31-AED1-7797E31CBE29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A7A031B-D1AE-4D31-AED1-7797E31CBE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7A031B-D1AE-4D31-AED1-7797E31CBE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7A031B-D1AE-4D31-AED1-7797E31CBE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7A031B-D1AE-4D31-AED1-7797E31CBE29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6A0B9F3-A5D1-4A20-9EB4-DCFCC02E9F77}
+	EndGlobalSection
+EndGlobal

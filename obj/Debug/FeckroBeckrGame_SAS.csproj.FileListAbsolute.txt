@@ -1,0 +1,12 @@
+G:\SAS.Programming\source\repos\FeckroBeckrGame_SAS\bin\Debug\FeckroBeckrGame_SAS.exe.config
+G:\SAS.Programming\source\repos\FeckroBeckrGame_SAS\bin\Debug\FeckroBeckrGame_SAS.exe
+G:\SAS.Programming\source\repos\FeckroBeckrGame_SAS\bin\Debug\FeckroBeckrGame_SAS.pdb
+G:\SAS.Programming\source\repos\FeckroBeckrGame_SAS\obj\Debug\FeckroBeckrGame_SAS.csproj.AssemblyReference.cache
+G:\SAS.Programming\source\repos\FeckroBeckrGame_SAS\obj\Debug\FeckroBeckrGame_SAS.Form1.resources
+G:\SAS.Programming\source\repos\FeckroBeckrGame_SAS\obj\Debug\FeckroBeckrGame_SAS.game.resources
+G:\SAS.Programming\source\repos\FeckroBeckrGame_SAS\obj\Debug\FeckroBeckrGame_SAS.Properties.Resources.resources
+G:\SAS.Programming\source\repos\FeckroBeckrGame_SAS\obj\Debug\FeckroBeckrGame_SAS.csproj.GenerateResource.cache
+G:\SAS.Programming\source\repos\FeckroBeckrGame_SAS\obj\Debug\FeckroBeckrGame_SAS.csproj.CoreCompileInputs.cache
+G:\SAS.Programming\source\repos\FeckroBeckrGame_SAS\obj\Debug\FeckroBeckrGame_SAS.exe
+G:\SAS.Programming\source\repos\FeckroBeckrGame_SAS\obj\Debug\FeckroBeckrGame_SAS.pdb
+G:\SAS.Programming\source\repos\FeckroBeckrGame_SAS\obj\Debug\FeckroBeckrGame_SAS.Records.resources
